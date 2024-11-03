@@ -11,6 +11,7 @@ The Witcher series takes place in a dark fantasy world called The Continent, a l
 The games in The Witcher series are known for their immersive gameplay mechanics, which combine third-person combat, alchemy, and magic. Players control Geralt as he uses swords, potions, and witcher signs (magical abilities) to defeat various enemies. The open-world design, especially in The Witcher 3: Wild Hunt, allows players to explore vast landscapes, engage in side quests, and make decisions that shape the game’s narrative. This level of player agency, combined with challenging combat mechanics, has made The Witcher a staple in the RPG genre.
 
 ### Overview of The Witcher games
+
 | Game title                        | Release Year | Main platform                      | Key feature                            |
 |-----------------------------------|--------------|------------------------------------|----------------------------------------|
 | The Witcher                       | 2007         | PC                                 | Introduced Geralt and core mechanics   |
